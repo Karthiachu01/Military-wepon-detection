@@ -1,1 +1,2 @@
 # Military-wepon-detection
+Military weapon detection refers to the process of identifying and locating weapons, ammunition, explosives, and other military equipment using various technologies and methods. This capability is critical for defense, surveillance, and counter-terrorism operations to ensure national security and battlefield awareness.
